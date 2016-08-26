@@ -1,0 +1,16 @@
+{
+  "name": "emarsys",
+  "version": "1.0.0",
+  "description": "emarsys homework",
+  "main": "calculation.js",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "tape": "^4.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zsolt Fekete",
+  "license": "ISC"
+}

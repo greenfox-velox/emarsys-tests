@@ -1,0 +1,23 @@
+{
+  "name": "due date",
+  "version": "1.0.0",
+  "description": "",
+  "main": "duedate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^2.13.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.9.2",
+    "eslint-plugin-jsx-a11y": "^1.5.3",
+    "eslint-plugin-react": "^5.2.2",
+    "tape": "^4.6.0"
+  },
+  "dependencies": {
+    "moment": "^2.14.1"
+  }
+}

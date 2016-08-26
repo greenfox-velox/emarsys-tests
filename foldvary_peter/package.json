@@ -1,0 +1,31 @@
+{
+  "name": "due-date-calculator",
+  "version": "1.0.0",
+  "description": "Emarsys homework",
+  "main": "due_date_calculator.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "keywords": [
+    "due",
+    "date",
+    "calculator",
+    "homework",
+    "foldvary",
+    "pfeter"
+  ],
+  "author": "Peter Foldvary",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "moment-business": "^3.0.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "eslint": "^2.13.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.9.2",
+    "eslint-plugin-jsx-a11y": "^1.5.3",
+    "mocha": "^3.0.0"
+  }
+}

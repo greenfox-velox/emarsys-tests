@@ -1,0 +1,22 @@
+{
+  "name": "duedatecalculator",
+  "version": "1.0.0",
+  "description": "Due Date Calculator algorithm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Szemann Peter",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.14.1",
+    "moment-business-days": "0.0.10"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^2.13.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.9.2",
+    "eslint-plugin-jsx-a11y": "^1.5.3"
+  }
+}
